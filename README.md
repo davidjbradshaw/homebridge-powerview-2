@@ -1,4 +1,4 @@
-# homebridge-powerview-2
+# homebridge-powerview-3
 [![npm](https://img.shields.io/npm/v/homebridge-powerview-2.svg)](https://www.npmjs.com/package/homebridge-powerview-2)
 [![npm](https://img.shields.io/npm/dt/homebridge-powerview-2.svg)](https://www.npmjs.com/package/homebridge-powerview-2)
 
